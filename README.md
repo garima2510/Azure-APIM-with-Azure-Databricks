@@ -8,9 +8,11 @@ The repository contains Python scripts that showcase:
 - Querying Databricks serving endpoints directly
 - Accessing Databricks models through Azure APIM
 - Using OpenAI SDK for chat completions with Databricks models
-More details here - 
-1. https://learn.microsoft.com/en-us/azure/databricks/machine-learning/model-serving/query-chat-models
-2. https://docs.databricks.com/aws/en/machine-learning/model-serving/serve-multiple-models-to-serving-endpoint
+
+## Resources
+
+- [Query Chat Models - Azure Databricks](https://learn.microsoft.com/en-us/azure/databricks/machine-learning/model-serving/query-chat-models)
+- [Databricks - Serve Multiple Models to Serving Endpoint](https://docs.databricks.com/aws/en/machine-learning/model-serving/serve-multiple-models-to-serving-endpoint)
 
 ## Prerequisites
 
