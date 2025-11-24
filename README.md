@@ -23,7 +23,7 @@ More details here -
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/azure-databricks-apim.git
+git clone git remote add origin https://github.com/garima2510/Azure-APIM-with-Azure-Databricks.git
 cd azure-databricks-apim
 ```
 
